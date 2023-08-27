@@ -1,0 +1,5008 @@
+{
+    "RECORDS": [
+        {
+            "id": "1",
+            "trend_name": "Flux Rifle",
+            "new_dot": "●●●●●",
+            "new_num": "1.55",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "2",
+            "trend_name": "Harpak",
+            "new_dot": "●●●●●",
+            "new_num": "1.55",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "3",
+            "trend_name": "Tetra",
+            "new_dot": "●●●●●",
+            "new_num": "1.5",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "4",
+            "trend_name": "Miter",
+            "new_dot": "●●●●●",
+            "new_num": "1.5",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "5",
+            "trend_name": "Mutalist Quanta",
+            "new_dot": "●●●●●",
+            "new_num": "1.5",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "6",
+            "trend_name": "Burston",
+            "new_dot": "●●●●●",
+            "new_num": "1.45",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "7",
+            "trend_name": "Buzlok",
+            "new_dot": "●●●●●",
+            "new_num": "1.45",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "8",
+            "trend_name": "Prisma Tetra",
+            "new_dot": "●●●●●",
+            "new_num": "1.45",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "9",
+            "trend_name": "MK1-Paris",
+            "new_dot": "●●●●●",
+            "new_num": "1.45",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "10",
+            "trend_name": "Attica",
+            "new_dot": "●●●●●",
+            "new_num": "1.42",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "11",
+            "trend_name": "Hind",
+            "new_dot": "●●●●●",
+            "new_num": "1.42",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "12",
+            "trend_name": "Latron",
+            "new_dot": "●●●●●",
+            "new_num": "1.4",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "13",
+            "trend_name": "Panthera",
+            "new_dot": "●●●●●",
+            "new_num": "1.4",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "14",
+            "trend_name": "Paris",
+            "new_dot": "●●●●●",
+            "new_num": "1.4",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "15",
+            "trend_name": "Dera",
+            "new_dot": "●●●●●",
+            "new_num": "1.4",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "16",
+            "trend_name": "Quanta Vandal",
+            "new_dot": "●●●●●",
+            "new_num": "1.4",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "17",
+            "trend_name": "Quanta",
+            "new_dot": "●●●●●",
+            "new_num": "1.4",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "18",
+            "trend_name": "Gorgon",
+            "new_dot": "●●●●●",
+            "new_num": "1.4",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "19",
+            "trend_name": "Gorgon Wraith",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "20",
+            "trend_name": "Grakata",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "21",
+            "trend_name": "Latron Wraith",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "22",
+            "trend_name": "Karak",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "23",
+            "trend_name": "MK1-Braton",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "24",
+            "trend_name": "Mutalist Cernos",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "25",
+            "trend_name": "Burston Prime",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "26",
+            "trend_name": "Braton",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "27",
+            "trend_name": "Dera Vandal",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "28",
+            "trend_name": "Paris Prime",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "29",
+            "trend_name": "Penta",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "30",
+            "trend_name": "Paracyst",
+            "new_dot": "●●●●●",
+            "new_num": "1.31",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "31",
+            "trend_name": "Synapse",
+            "new_dot": "●●●●●",
+            "new_num": "1.31",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "32",
+            "trend_name": "Veldt",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "33",
+            "trend_name": "Ogris",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "34",
+            "trend_name": "Javlok",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "35",
+            "trend_name": "Torid",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "36",
+            "trend_name": "Tonkor",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "37",
+            "trend_name": "Prisma Gorgon",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "38",
+            "trend_name": "Nagantaka",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "39",
+            "trend_name": "Latron Prime",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "40",
+            "trend_name": "Prisma Grakata",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "41",
+            "trend_name": "Secura Penta",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "42",
+            "trend_name": "Sybaris",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "43",
+            "trend_name": "Glaxion",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "44",
+            "trend_name": "Boltor",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "45",
+            "trend_name": "Cernos",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "46",
+            "trend_name": "Grinlok",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "47",
+            "trend_name": "Hema",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "48",
+            "trend_name": "Braton Vandal",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "49",
+            "trend_name": "Carmine Penta",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "50",
+            "trend_name": "Dread",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "51",
+            "trend_name": "Karak Wraith",
+            "new_dot": "●●●●○",
+            "new_num": "1.28",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "52",
+            "trend_name": "Rakta Cernos",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "53",
+            "trend_name": "Quartakk",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "54",
+            "trend_name": "Prisma Grinlok",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "55",
+            "trend_name": "Cernos Prime",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "56",
+            "trend_name": "Daikyu",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "57",
+            "trend_name": "Panthera Prime",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "58",
+            "trend_name": "Dex Sybaris",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "59",
+            "trend_name": "Braton Prime",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "60",
+            "trend_name": "Glaxion Vandal",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "61",
+            "trend_name": "Argonak",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "62",
+            "trend_name": "Simulor",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "63",
+            "trend_name": "Prime Laser Rifle",
+            "new_dot": "●●●●○",
+            "new_num": "1.21",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "64",
+            "trend_name": "Zhuge",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "65",
+            "trend_name": "Boltor Prime",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "66",
+            "trend_name": "Scourge",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "67",
+            "trend_name": "Basmu",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "68",
+            "trend_name": "Sybaris Prime",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "69",
+            "trend_name": "Synoid Simulor",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "70",
+            "trend_name": "Telos Boltor",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "71",
+            "trend_name": "Soma",
+            "new_dot": "●●●●○",
+            "new_num": "1.15",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "72",
+            "trend_name": "Zhuge Prime",
+            "new_dot": "●●●●○",
+            "new_num": "1.15",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "73",
+            "trend_name": "Ferrox",
+            "new_dot": "●●●●○",
+            "new_num": "1.15",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "74",
+            "trend_name": "Zarr",
+            "new_dot": "●●●●○",
+            "new_num": "1.15",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "75",
+            "trend_name": "Opticor",
+            "new_dot": "●●●●○",
+            "new_num": "1.15",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "76",
+            "trend_name": "Quellor",
+            "new_dot": "●●●●○",
+            "new_num": "1.15",
+            "old_dot": "●●●○○",
+            "old_num": "1.1",
+            "type": "RIFLE"
+        },
+        {
+            "id": "77",
+            "trend_name": "Tenet Tetra",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●●●○○",
+            "old_num": "1",
+            "type": "RIFLE"
+        },
+        {
+            "id": "78",
+            "trend_name": "Tombfinger (primary)",
+            "new_dot": "●●●○○",
+            "new_num": "1",
+            "old_dot": "●●●○○",
+            "old_num": "0.95",
+            "type": "RIFLE"
+        },
+        {
+            "id": "79",
+            "trend_name": "Vermisplicer (primary)",
+            "new_dot": "●●●○○",
+            "new_num": "0.9",
+            "old_dot": "●●○○○",
+            "old_num": "0.85",
+            "type": "RIFLE"
+        },
+        {
+            "id": "80",
+            "trend_name": "Akarius",
+            "new_dot": "●●●○○",
+            "new_num": "0.95",
+            "old_dot": "●●●○○",
+            "old_num": "1.0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "81",
+            "trend_name": "Akstiletto Prime",
+            "new_dot": "●●○○○",
+            "new_num": "0.8",
+            "old_dot": "●●○○○",
+            "old_num": "0.75",
+            "type": "PISTOL"
+        },
+        {
+            "id": "82",
+            "trend_name": "Athodai",
+            "new_dot": "●●●○○",
+            "new_num": "1.05",
+            "old_dot": "●●●○○",
+            "old_num": "1",
+            "type": "PISTOL"
+        },
+        {
+            "id": "83",
+            "trend_name": "Cyanex",
+            "new_dot": "●●●○○",
+            "new_num": "0.95",
+            "old_dot": "●●●○○",
+            "old_num": "0.9",
+            "type": "PISTOL"
+        },
+        {
+            "id": "84",
+            "trend_name": "Synoid Gammacor",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●●●○○",
+            "old_num": "1.05",
+            "type": "PISTOL"
+        },
+        {
+            "id": "85",
+            "trend_name": "Knell Prime",
+            "new_dot": "●●○○○",
+            "new_num": "0.85",
+            "old_dot": "●●●○○",
+            "old_num": "1.05",
+            "type": "PISTOL"
+        },
+        {
+            "id": "86",
+            "trend_name": "Kompressa",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●●●○○",
+            "old_num": "1",
+            "type": "PISTOL"
+        },
+        {
+            "id": "87",
+            "trend_name": "Pandero Prime",
+            "new_dot": "●●●○○",
+            "new_num": "1.05",
+            "old_dot": "●●●○○",
+            "old_num": "1",
+            "type": "PISTOL"
+        },
+        {
+            "id": "88",
+            "trend_name": "Sepulcrum",
+            "new_dot": "●●●○○",
+            "new_num": "1.05",
+            "old_dot": "●●●○○",
+            "old_num": "1",
+            "type": "PISTOL"
+        },
+        {
+            "id": "89",
+            "trend_name": "Sicarus Prime",
+            "new_dot": "●●●●○",
+            "new_num": "1.15",
+            "old_dot": "●●●○○",
+            "old_num": "1.1",
+            "type": "PISTOL"
+        },
+        {
+            "id": "90",
+            "trend_name": "Staticor",
+            "new_dot": "●●○○○",
+            "new_num": "0.8",
+            "old_dot": "●●○○○",
+            "old_num": "0.75",
+            "type": "PISTOL"
+        },
+        {
+            "id": "91",
+            "trend_name": "Arum Spinosa",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●●●●○",
+            "old_num": "1.15",
+            "type": "MELEE"
+        },
+        {
+            "id": "92",
+            "trend_name": "Atterax",
+            "new_dot": "●●●●○",
+            "new_num": "1.15",
+            "old_dot": "●●●○○",
+            "old_num": "1.1",
+            "type": "MELEE"
+        },
+        {
+            "id": "93",
+            "trend_name": "Ceti Lacera",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●●●●○",
+            "old_num": "1.15",
+            "type": "MELEE"
+        },
+        {
+            "id": "94",
+            "trend_name": "Cyath",
+            "new_dot": "●●●○○",
+            "new_num": "0.95",
+            "old_dot": "●●●○○",
+            "old_num": "0.9",
+            "type": "MELEE"
+        },
+        {
+            "id": "95",
+            "trend_name": "Furax Wraith",
+            "new_dot": "●●●●○",
+            "new_num": "1.15",
+            "old_dot": "●●●●●",
+            "old_num": "1.3",
+            "type": "MELEE"
+        },
+        {
+            "id": "96",
+            "trend_name": "Galatine Prime",
+            "new_dot": "●●●○○",
+            "new_num": "0.9",
+            "old_dot": "●●○○○",
+            "old_num": "0.85",
+            "type": "MELEE"
+        },
+        {
+            "id": "97",
+            "trend_name": "Jat Kusar",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●●●●○",
+            "old_num": "1.15",
+            "type": "MELEE"
+        },
+        {
+            "id": "98",
+            "trend_name": "Keratinos",
+            "new_dot": "●●●○○",
+            "new_num": "1.05",
+            "old_dot": "●●●○○",
+            "old_num": "1",
+            "type": "MELEE"
+        },
+        {
+            "id": "99",
+            "trend_name": "Lesion",
+            "new_dot": "●●○○○",
+            "new_num": "0.8",
+            "old_dot": "●●○○○",
+            "old_num": "0.75",
+            "type": "MELEE"
+        },
+        {
+            "id": "100",
+            "trend_name": "Masseter",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●●●●○",
+            "old_num": "1.2",
+            "type": "MELEE"
+        },
+        {
+            "id": "101",
+            "trend_name": "Ohma",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●●●●○",
+            "old_num": "1.2",
+            "type": "MELEE"
+        },
+        {
+            "id": "102",
+            "trend_name": "Praedos",
+            "new_dot": "●○○○○",
+            "new_num": "0.55",
+            "old_dot": "●○○○○",
+            "old_num": "0.5",
+            "type": "MELEE"
+        },
+        {
+            "id": "103",
+            "trend_name": "Rakta Dark Dagger",
+            "new_dot": "●●●○○",
+            "new_num": "1",
+            "old_dot": "●●●○○",
+            "old_num": "0.95",
+            "type": "MELEE"
+        },
+        {
+            "id": "104",
+            "trend_name": "Sarpa",
+            "new_dot": "●●●●○",
+            "new_num": "1.15",
+            "old_dot": "●●●●○",
+            "old_num": "1.24",
+            "type": "MELEE"
+        },
+        {
+            "id": "105",
+            "trend_name": "Scindo Prime",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●●●●○",
+            "old_num": "1.25",
+            "type": "MELEE"
+        },
+        {
+            "id": "106",
+            "trend_name": "Sigma & Octantis",
+            "new_dot": "●●●○○",
+            "new_num": "1.05",
+            "old_dot": "●●●○○",
+            "old_num": "1",
+            "type": "MELEE"
+        },
+        {
+            "id": "107",
+            "trend_name": "Silva & Aegis",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●●●●○",
+            "old_num": "1.15",
+            "type": "MELEE"
+        },
+        {
+            "id": "108",
+            "trend_name": "Silva & Aegis Prime",
+            "new_dot": "●●●○○",
+            "new_num": "1.05",
+            "old_dot": "●●●○○",
+            "old_num": "1",
+            "type": "MELEE"
+        },
+        {
+            "id": "109",
+            "trend_name": "Tenet Agendus",
+            "new_dot": "●●○○○",
+            "new_num": "0.8",
+            "old_dot": "●●○○○",
+            "old_num": "0.75",
+            "type": "MELEE"
+        },
+        {
+            "id": "110",
+            "trend_name": "Tenet Exec",
+            "new_dot": "●●○○○",
+            "new_num": "0.75",
+            "old_dot": "●●○○○",
+            "old_num": "0.7",
+            "type": "MELEE"
+        },
+        {
+            "id": "111",
+            "trend_name": "Vitrica",
+            "new_dot": "●●●○○",
+            "new_num": "1.05",
+            "old_dot": "●●●○○",
+            "old_num": "1",
+            "type": "MELEE"
+        },
+        {
+            "id": "112",
+            "trend_name": "Volnus Prime",
+            "new_dot": "●●●●○",
+            "new_num": "1.15",
+            "old_dot": "●●●○○",
+            "old_num": "1.1",
+            "type": "MELEE"
+        },
+        {
+            "id": "113",
+            "trend_name": "Imperator Vandal",
+            "new_dot": "●●●○○",
+            "new_num": "0.95",
+            "old_dot": "●●●○○",
+            "old_num": "0.9",
+            "type": "ARCHGUN"
+        },
+        {
+            "id": "114",
+            "trend_name": "Kuva Ayanga",
+            "new_dot": "●●●○○",
+            "new_num": "0.95",
+            "old_dot": "●●●○○",
+            "old_num": "1",
+            "type": "ARCHGUN"
+        },
+        {
+            "id": "115",
+            "trend_name": "Phaedra",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●●●●○",
+            "old_num": "1.2",
+            "type": "ARCHGUN"
+        },
+        {
+            "id": "116",
+            "trend_name": "Aegrit",
+            "new_dot": "●○○○○",
+            "new_num": "0.6",
+            "old_dot": "●○○○○",
+            "old_num": "0.5",
+            "type": "PISTOL"
+        },
+        {
+            "id": "117",
+            "trend_name": "Akjagara",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●●●○○",
+            "old_num": "1.05",
+            "type": "PISTOL"
+        },
+        {
+            "id": "118",
+            "trend_name": "Akjagara Prime",
+            "new_dot": "●●●○○",
+            "new_num": "1",
+            "old_dot": "●●●○○",
+            "old_num": "0.95",
+            "type": "PISTOL"
+        },
+        {
+            "id": "119",
+            "trend_name": "Hystrix Prime",
+            "new_dot": "●●○○○",
+            "new_num": "0.85",
+            "old_dot": "●●○○○",
+            "old_num": "0.7",
+            "type": "PISTOL"
+        },
+        {
+            "id": "120",
+            "trend_name": "Magnus Prime",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●●●●○",
+            "old_num": "1.15",
+            "type": "PISTOL"
+        },
+        {
+            "id": "121",
+            "trend_name": "Tenet Detron",
+            "new_dot": "●●○○○",
+            "new_num": "0.85",
+            "old_dot": "●●○○○",
+            "old_num": "0.8",
+            "type": "PISTOL"
+        },
+        {
+            "id": "122",
+            "trend_name": "Tenet Diplos",
+            "new_dot": "●●○○○",
+            "new_num": "0.75",
+            "old_dot": "●●○○○",
+            "old_num": "0.7",
+            "type": "PISTOL"
+        },
+        {
+            "id": "123",
+            "trend_name": "Tenet Spirex",
+            "new_dot": "●●●○○",
+            "new_num": "0.95",
+            "old_dot": "●●●○○",
+            "old_num": "0.9",
+            "type": "PISTOL"
+        },
+        {
+            "id": "124",
+            "trend_name": "Tombfinger (secondary)",
+            "new_dot": "●●○○○",
+            "new_num": "0.7",
+            "old_dot": "●○○○○",
+            "old_num": "0.65",
+            "type": "PISTOL"
+        },
+        {
+            "id": "125",
+            "trend_name": "Balla",
+            "new_dot": "●●○○○",
+            "new_num": "0.85",
+            "old_dot": "●●●○○",
+            "old_num": "0.9",
+            "type": "MELEE"
+        },
+        {
+            "id": "126",
+            "trend_name": "Dual Kamas",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●●●●●",
+            "old_num": "1.3",
+            "type": "MELEE"
+        },
+        {
+            "id": "127",
+            "trend_name": "Dual Kamas Prime",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●●●●○",
+            "old_num": "1.2",
+            "type": "MELEE"
+        },
+        {
+            "id": "128",
+            "trend_name": "Ghoulsaw",
+            "new_dot": "●●●●○",
+            "new_num": "1.15",
+            "old_dot": "●●●○○",
+            "old_num": "1.1",
+            "type": "MELEE"
+        },
+        {
+            "id": "129",
+            "trend_name": "Hespar",
+            "new_dot": "●●○○○",
+            "new_num": "0.75",
+            "old_dot": "●●○○○",
+            "old_num": "0.7",
+            "type": "MELEE"
+        },
+        {
+            "id": "130",
+            "trend_name": "Innodem",
+            "new_dot": "●○○○○",
+            "new_num": "0.6",
+            "old_dot": "●○○○○",
+            "old_num": "0.55",
+            "type": "MELEE"
+        },
+        {
+            "id": "131",
+            "trend_name": "Karyst Prime",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●●●○○",
+            "old_num": "1.05",
+            "type": "MELEE"
+        },
+        {
+            "id": "132",
+            "trend_name": "Korumm",
+            "new_dot": "●●●○○",
+            "new_num": "1.05",
+            "old_dot": "●●●○○",
+            "old_num": "0.95",
+            "type": "MELEE"
+        },
+        {
+            "id": "133",
+            "trend_name": "Nepheri",
+            "new_dot": "●●●○○",
+            "new_num": "0.9",
+            "old_dot": "●●○○○",
+            "old_num": "0.85",
+            "type": "MELEE"
+        },
+        {
+            "id": "134",
+            "trend_name": "Pupacyst",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●●●●●",
+            "old_num": "1.3",
+            "type": "MELEE"
+        },
+        {
+            "id": "135",
+            "trend_name": "Rumblejack",
+            "new_dot": "●●●●○",
+            "new_num": "1.15",
+            "old_dot": "●●●○○",
+            "old_num": "1.1",
+            "type": "MELEE"
+        },
+        {
+            "id": "136",
+            "trend_name": "Slaytra",
+            "new_dot": "●●○○○",
+            "new_num": "0.7",
+            "old_dot": "●○○○○",
+            "old_num": "0.5",
+            "type": "MELEE"
+        },
+        {
+            "id": "137",
+            "trend_name": "Tatsu Prime",
+            "new_dot": "●○○○○",
+            "new_num": "0.65",
+            "old_dot": "●○○○○",
+            "old_num": "0.5",
+            "type": "MELEE"
+        },
+        {
+            "id": "138",
+            "trend_name": "Telos Boltace",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●●●○○",
+            "old_num": "1.05",
+            "type": "MELEE"
+        },
+        {
+            "id": "139",
+            "trend_name": "Tenet Grigori",
+            "new_dot": "●●○○○",
+            "new_num": "0.85",
+            "old_dot": "●●○○○",
+            "old_num": "0.8",
+            "type": "MELEE"
+        },
+        {
+            "id": "140",
+            "trend_name": "Tenet Livia",
+            "new_dot": "●●○○○",
+            "new_num": "0.75",
+            "old_dot": "●●○○○",
+            "old_num": "0.7",
+            "type": "MELEE"
+        },
+        {
+            "id": "141",
+            "trend_name": "Venato",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●●●●○",
+            "old_num": "1.2",
+            "type": "MELEE"
+        },
+        {
+            "id": "142",
+            "trend_name": "Verdilac",
+            "new_dot": "●●●○○",
+            "new_num": "1.05",
+            "old_dot": "●●●○○",
+            "old_num": "1",
+            "type": "MELEE"
+        },
+        {
+            "id": "143",
+            "trend_name": "Vericres",
+            "new_dot": "●●○○○",
+            "new_num": "0.8",
+            "old_dot": "●●○○○",
+            "old_num": "0.75",
+            "type": "MELEE"
+        },
+        {
+            "id": "144",
+            "trend_name": "Corvas Prime",
+            "new_dot": "●●○○○",
+            "new_num": "0.8",
+            "old_dot": "●●○○○",
+            "old_num": "0.75",
+            "type": "ARCHGUN"
+        },
+        {
+            "id": "145",
+            "trend_name": "Scourge Prime",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "146",
+            "trend_name": "Ambassador",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "147",
+            "trend_name": "Battacor",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "148",
+            "trend_name": "Tiberon",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "149",
+            "trend_name": "Soma Prime",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "150",
+            "trend_name": "Tenora",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "151",
+            "trend_name": "Stradavar",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "152",
+            "trend_name": "Supra",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "153",
+            "trend_name": "Stradavar Prime",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "154",
+            "trend_name": "Aeolak",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "155",
+            "trend_name": "Zenith",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "156",
+            "trend_name": "Opticor Vandal",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "157",
+            "trend_name": "Kuva Karak",
+            "new_dot": "●●●○○",
+            "new_num": "1.05",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "158",
+            "trend_name": "Baza",
+            "new_dot": "●●●○○",
+            "new_num": "1.05",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "159",
+            "trend_name": "Kuva Hind",
+            "new_dot": "●●●○○",
+            "new_num": "1.05",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "160",
+            "trend_name": "Tenet Flux Rifle",
+            "new_dot": "●●●○○",
+            "new_num": "1.05",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "161",
+            "trend_name": "Kuva Quartakk",
+            "new_dot": "●●●○○",
+            "new_num": "1.05",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "162",
+            "trend_name": "Artemis Bow Prime",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "163",
+            "trend_name": "Supra Vandal",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "164",
+            "trend_name": "Artemis Bow",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "165",
+            "trend_name": "Alternox",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "166",
+            "trend_name": "Tiberon Prime",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "167",
+            "trend_name": "Tenora Prime",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "168",
+            "trend_name": "Lenz",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "169",
+            "trend_name": "Baza Prime",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "170",
+            "trend_name": "Nagantaka Prime",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "171",
+            "trend_name": "Stahlta",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "172",
+            "trend_name": "Kuva Tonkor",
+            "new_dot": "●●●○○",
+            "new_num": "0.95",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "173",
+            "trend_name": "Trumna",
+            "new_dot": "●●○○○",
+            "new_num": "0.85",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "174",
+            "trend_name": "Amprex",
+            "new_dot": "●●○○○",
+            "new_num": "0.85",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "175",
+            "trend_name": "Kuva Chakkhurr",
+            "new_dot": "●●○○○",
+            "new_num": "0.85",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "176",
+            "trend_name": "Afentis",
+            "new_dot": "●●○○○",
+            "new_num": "0.8",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "177",
+            "trend_name": "Fulmin",
+            "new_dot": "●●○○○",
+            "new_num": "0.8",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "178",
+            "trend_name": "Shedu",
+            "new_dot": "●●○○○",
+            "new_num": "0.75",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "179",
+            "trend_name": "Kuva Ogris",
+            "new_dot": "●●○○○",
+            "new_num": "0.7",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "180",
+            "trend_name": "Proboscis Cernos",
+            "new_dot": "●●○○○",
+            "new_num": "0.7",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "181",
+            "trend_name": "Tenet Envoy",
+            "new_dot": "●○○○○",
+            "new_num": "0.65",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "182",
+            "trend_name": "Nataruk",
+            "new_dot": "●○○○○",
+            "new_num": "0.6",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "183",
+            "trend_name": "Ignis",
+            "new_dot": "●○○○○",
+            "new_num": "0.6",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "184",
+            "trend_name": "Kuva Bramma",
+            "new_dot": "●○○○○",
+            "new_num": "0.6",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "185",
+            "trend_name": "Kuva Zarr",
+            "new_dot": "●○○○○",
+            "new_num": "0.6",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "186",
+            "trend_name": "Acceltra",
+            "new_dot": "●○○○○",
+            "new_num": "0.6",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "187",
+            "trend_name": "Phenmor",
+            "new_dot": "●○○○○",
+            "new_num": "0.6",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "188",
+            "trend_name": "Ignis Wraith",
+            "new_dot": "●○○○○",
+            "new_num": "0.55",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "189",
+            "trend_name": "Steflos",
+            "new_dot": "●○○○○",
+            "new_num": "0.5",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "190",
+            "trend_name": "Phage",
+            "new_dot": "●●●●●",
+            "new_num": "1.46",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "191",
+            "trend_name": "Convectrix",
+            "new_dot": "●●●●●",
+            "new_num": "1.46",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "192",
+            "trend_name": "MK1-Strun",
+            "new_dot": "●●●●●",
+            "new_num": "1.45",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "193",
+            "trend_name": "Boar",
+            "new_dot": "●●●●●",
+            "new_num": "1.45",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "194",
+            "trend_name": "Strun",
+            "new_dot": "●●●●●",
+            "new_num": "1.4",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "195",
+            "trend_name": "Drakgoon",
+            "new_dot": "●●●●●",
+            "new_num": "1.4",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "196",
+            "trend_name": "Strun Wraith",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "197",
+            "trend_name": "Boar Prime",
+            "new_dot": "●●●●●",
+            "new_num": "1.34",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "198",
+            "trend_name": "Sobek",
+            "new_dot": "●●●●●",
+            "new_num": "1.33",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "199",
+            "trend_name": "Kohm",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "200",
+            "trend_name": "Astilla",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "201",
+            "trend_name": "Strun Prime",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "202",
+            "trend_name": "Hek",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "203",
+            "trend_name": "Corinth",
+            "new_dot": "●●●●○",
+            "new_num": "1.15",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "204",
+            "trend_name": "Kuva Drakgoon",
+            "new_dot": "●●●●○",
+            "new_num": "1.15",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "205",
+            "trend_name": "Tigris",
+            "new_dot": "●●●●○",
+            "new_num": "1.15",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "206",
+            "trend_name": "Vaykor Hek",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "207",
+            "trend_name": "Astilla Prime",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "208",
+            "trend_name": "Exergis",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "209",
+            "trend_name": "Phantasma",
+            "new_dot": "●●●○○",
+            "new_num": "1.05",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "210",
+            "trend_name": "Sancti Tigris",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "211",
+            "trend_name": "Corinth Prime",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "212",
+            "trend_name": "Arca Plasmor",
+            "new_dot": "●●●○○",
+            "new_num": "0.95",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "213",
+            "trend_name": "Tigris Prime",
+            "new_dot": "●●●○○",
+            "new_num": "0.95",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "214",
+            "trend_name": "Kuva Kohm",
+            "new_dot": "●●●○○",
+            "new_num": "0.9",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "215",
+            "trend_name": "Kuva Hek",
+            "new_dot": "●●●○○",
+            "new_num": "0.9",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "216",
+            "trend_name": "Bubonico",
+            "new_dot": "●●○○○",
+            "new_num": "0.75",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "217",
+            "trend_name": "Phantasma Prime",
+            "new_dot": "●○○○○",
+            "new_num": "0.65",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "218",
+            "trend_name": "Cedo",
+            "new_dot": "●○○○○",
+            "new_num": "0.65",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "219",
+            "trend_name": "Felarx",
+            "new_dot": "●○○○○",
+            "new_num": "0.6",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "220",
+            "trend_name": "Tenet Arca Plasmor",
+            "new_dot": "●○○○○",
+            "new_num": "0.55",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "221",
+            "trend_name": "Vulkar",
+            "new_dot": "●●●●●",
+            "new_num": "1.45",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "222",
+            "trend_name": "Vulkar Wraith",
+            "new_dot": "●●●●●",
+            "new_num": "1.4",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "223",
+            "trend_name": "Snipetron",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "224",
+            "trend_name": "Sporothrix",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "225",
+            "trend_name": "Snipetron Vandal",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "226",
+            "trend_name": "Komorex",
+            "new_dot": "●●●●○",
+            "new_num": "1.15",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "227",
+            "trend_name": "Vectis",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "228",
+            "trend_name": "Lanka",
+            "new_dot": "●●●○○",
+            "new_num": "1.05",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "229",
+            "trend_name": "Rubico",
+            "new_dot": "●●●○○",
+            "new_num": "0.95",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "230",
+            "trend_name": "Vectis Prime",
+            "new_dot": "●●○○○",
+            "new_num": "0.85",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "231",
+            "trend_name": "Rubico Prime",
+            "new_dot": "●○○○○",
+            "new_num": "0.6",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "232",
+            "trend_name": "Perigale",
+            "new_dot": "●○○○○",
+            "new_num": "0.5",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "233",
+            "trend_name": "Kraken",
+            "new_dot": "●●●●●",
+            "new_num": "1.53",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "234",
+            "trend_name": "Magnus",
+            "new_dot": "●●●●●",
+            "new_num": "\t1.53",
+            "old_dot": "●●●●●",
+            "old_num": "1.53",
+            "type": "PISTOL"
+        },
+        {
+            "id": "235",
+            "trend_name": "Cestra",
+            "new_dot": "●●●●●",
+            "new_num": "1.52",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "236",
+            "trend_name": "Akzani",
+            "new_dot": "●●●●●",
+            "new_num": "1.52",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "237",
+            "trend_name": "Aklato",
+            "new_dot": "●●●●●",
+            "new_num": "1.52",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "238",
+            "trend_name": "Kunai",
+            "new_dot": "●●●●●",
+            "new_num": "1.51",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "239",
+            "trend_name": "MK1-Kunai",
+            "new_dot": "●●●●●",
+            "new_num": "1.51",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "240",
+            "trend_name": "Bolto",
+            "new_dot": "●●●●●",
+            "new_num": "1.51",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "241",
+            "trend_name": "Seer",
+            "new_dot": "●●●●●",
+            "new_num": "1.5",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "242",
+            "trend_name": "Spectra",
+            "new_dot": "●●●●●",
+            "new_num": "1.49",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "243",
+            "trend_name": "Stug",
+            "new_dot": "●●●●●",
+            "new_num": "1.48",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "244",
+            "trend_name": "Nukor",
+            "new_dot": "●●●●●",
+            "new_num": "1.45",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "245",
+            "trend_name": "Bronco",
+            "new_dot": "●●●●●",
+            "new_num": "1.45",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "246",
+            "trend_name": "Prisma Burst Laser",
+            "new_dot": "●●●●●",
+            "new_num": "1.45",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "247",
+            "trend_name": "Tysis",
+            "new_dot": "●●●●●",
+            "new_num": "1.45",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "248",
+            "trend_name": "Twin Vipers",
+            "new_dot": "●●●●●",
+            "new_num": "1.45",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "249",
+            "trend_name": "Viper",
+            "new_dot": "●●●●●",
+            "new_num": "1.45",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "250",
+            "trend_name": "Afuris",
+            "new_dot": "●●●●●",
+            "new_num": "1.45",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "251",
+            "trend_name": "Talons",
+            "new_dot": "●●●●●",
+            "new_num": "1.44",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "252",
+            "trend_name": "Twin Vipers Wraith",
+            "new_dot": "●●●●●",
+            "new_num": "1.41",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "253",
+            "trend_name": "Embolist",
+            "new_dot": "●●●●●",
+            "new_num": "1.4",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "254",
+            "trend_name": "Vasto",
+            "new_dot": "●●●●●",
+            "new_num": "1.4",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "255",
+            "trend_name": "Viper Wraith",
+            "new_dot": "●●●●●",
+            "new_num": "1.4",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "256",
+            "trend_name": "MK1-Furis",
+            "new_dot": "●●●●●",
+            "new_num": "1.4",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "257",
+            "trend_name": "Spectra Vandal",
+            "new_dot": "●●●●●",
+            "new_num": "1.4",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "258",
+            "trend_name": "Bronco Prime",
+            "new_dot": "●●●●●",
+            "new_num": "1.4",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "259",
+            "trend_name": "Castanas",
+            "new_dot": "●●●●●",
+            "new_num": "1.4",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "260",
+            "trend_name": "Lato",
+            "new_dot": "●●●●●",
+            "new_num": "1.4",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "261",
+            "trend_name": "Dex Furis",
+            "new_dot": "●●●●●",
+            "new_num": "1.39",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "262",
+            "trend_name": "Dual Cestra",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "263",
+            "trend_name": "Fusilai",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "264",
+            "trend_name": "Furis",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "265",
+            "trend_name": "Lato Prime",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "266",
+            "trend_name": "Kohmak",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "267",
+            "trend_name": "Dual Toxocyst",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "268",
+            "trend_name": "Lato Vandal",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "269",
+            "trend_name": "Stubba",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "270",
+            "trend_name": "Angstrum",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "271",
+            "trend_name": "Vasto Prime",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "272",
+            "trend_name": "Akmagnus",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "273",
+            "trend_name": "Akbronco",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "274",
+            "trend_name": "Sancti Castanas",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "275",
+            "trend_name": "Acrid",
+            "new_dot": "●●●●●",
+            "new_num": "1.33",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "276",
+            "trend_name": "Twin Rogga",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "277",
+            "trend_name": "Secura Dual Cestra",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "278",
+            "trend_name": "Prisma Angstrum",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "279",
+            "trend_name": "Kulstar",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "280",
+            "trend_name": "Spira",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "281",
+            "trend_name": "Hikou",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "282",
+            "trend_name": "Akbronco Prime",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "283",
+            "trend_name": "Akbolto",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "284",
+            "trend_name": "Despair",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "285",
+            "trend_name": "Hikou Prime",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "286",
+            "trend_name": "Lex",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "287",
+            "trend_name": "Brakk",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "288",
+            "trend_name": "Azima",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "289",
+            "trend_name": "Knell",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "290",
+            "trend_name": "Akvasto",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "291",
+            "trend_name": "Aksomati",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "292",
+            "trend_name": "Telos Akbolto",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "293",
+            "trend_name": "Zakti",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "294",
+            "trend_name": "Ballistica",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "295",
+            "trend_name": "Zylok",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "296",
+            "trend_name": "Twin Kohmak",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "297",
+            "trend_name": "Pandero",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "298",
+            "trend_name": "Akbolto Prime",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "299",
+            "trend_name": "Velox",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "300",
+            "trend_name": "Plinx",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "301",
+            "trend_name": "Zymos",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "302",
+            "trend_name": "Akvasto Prime",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "303",
+            "trend_name": "Cycron",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "304",
+            "trend_name": "Pox",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "305",
+            "trend_name": "Rakta Ballistica",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "306",
+            "trend_name": "Ballistica Prime",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "307",
+            "trend_name": "Spira Prime",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "308",
+            "trend_name": "Twin Gremlins",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "309",
+            "trend_name": "Twin Grakatas",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "310",
+            "trend_name": "Ocucor",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "311",
+            "trend_name": "Quatz",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "312",
+            "trend_name": "Marelok",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "313",
+            "trend_name": "Lex Prime",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "314",
+            "trend_name": "Hystrix",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "315",
+            "trend_name": "Mara Detron",
+            "new_dot": "●●●●○",
+            "new_num": "1.15",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "316",
+            "trend_name": "Sonicor",
+            "new_dot": "●●●●○",
+            "new_num": "1.15",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "317",
+            "trend_name": "Detron",
+            "new_dot": "●●●●○",
+            "new_num": "1.15",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "318",
+            "trend_name": "Gammacor",
+            "new_dot": "●●●●○",
+            "new_num": "1.15",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "319",
+            "trend_name": "Prisma Twin Gremlins",
+            "new_dot": "●●●●○",
+            "new_num": "1.15",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "320",
+            "trend_name": "Catabolyst",
+            "new_dot": "●●●●○",
+            "new_num": "1.15",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "321",
+            "trend_name": "Arca Scisco",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "322",
+            "trend_name": "Sicarus",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "323",
+            "trend_name": "Vaykor Marelok",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "324",
+            "trend_name": "Kuva Kraken",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "325",
+            "trend_name": "Aklex",
+            "new_dot": "●●●○○",
+            "new_num": "1.05",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "326",
+            "trend_name": "Zakti Prime",
+            "new_dot": "●●●○○",
+            "new_num": "1.05",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "327",
+            "trend_name": "Dex Pixia",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "328",
+            "trend_name": "Aksomati Prime",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "329",
+            "trend_name": "Dex Pixia Prime",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "330",
+            "trend_name": "Kuva Seer",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "331",
+            "trend_name": "Regulators Prime",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "332",
+            "trend_name": "Balefire Charger",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "333",
+            "trend_name": "Regulators",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "334",
+            "trend_name": "Akstiletto",
+            "new_dot": "●●●○○",
+            "new_num": "0.95",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "335",
+            "trend_name": "Aklex Prime",
+            "new_dot": "●●●○○",
+            "new_num": "0.95",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "336",
+            "trend_name": "Atomos",
+            "new_dot": "●●●○○",
+            "new_num": "0.95",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "337",
+            "trend_name": "Pyrana",
+            "new_dot": "●●●○○",
+            "new_num": "0.95",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "338",
+            "trend_name": "Euphona Prime",
+            "new_dot": "●●●○○",
+            "new_num": "0.9",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "339",
+            "trend_name": "Kuva Brakk",
+            "new_dot": "●●○○○",
+            "new_num": "0.85",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "340",
+            "trend_name": "Kuva Twin Stubbas",
+            "new_dot": "●●○○○",
+            "new_num": "0.85",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "341",
+            "trend_name": "Tenet Cycron",
+            "new_dot": "●●○○○",
+            "new_num": "0.7",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "342",
+            "trend_name": "Pyrana Prime",
+            "new_dot": "●○○○○",
+            "new_num": "0.6",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "343",
+            "trend_name": "Epitaph",
+            "new_dot": "●○○○○",
+            "new_num": "0.55",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "344",
+            "trend_name": "Laetum",
+            "new_dot": "●○○○○",
+            "new_num": "0.5",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "345",
+            "trend_name": "Kuva Nukor",
+            "new_dot": "●○○○○",
+            "new_num": "0.5",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "346",
+            "trend_name": "Amphis",
+            "new_dot": "●●●●●",
+            "new_num": "1.5",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "347",
+            "trend_name": "Ankyros",
+            "new_dot": "●●●●●",
+            "new_num": "1.5",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "348",
+            "trend_name": "Ether Daggers",
+            "new_dot": "●●●●●",
+            "new_num": "1.49",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "349",
+            "trend_name": "Dark Sword",
+            "new_dot": "●●●●●",
+            "new_num": "1.48",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "350",
+            "trend_name": "Dual Skana",
+            "new_dot": "●●●●●",
+            "new_num": "1.48",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "351",
+            "trend_name": "Plasma Sword",
+            "new_dot": "●●●●●",
+            "new_num": "1.48",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "352",
+            "trend_name": "Cronus",
+            "new_dot": "●●●●●",
+            "new_num": "1.48",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "353",
+            "trend_name": "Heat Sword",
+            "new_dot": "●●●●●",
+            "new_num": "1.48",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "354",
+            "trend_name": "Pangolin Sword",
+            "new_dot": "●●●●●",
+            "new_num": "1.47",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "355",
+            "trend_name": "Kama",
+            "new_dot": "●●●●●",
+            "new_num": "1.47",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "356",
+            "trend_name": "Kogake",
+            "new_dot": "●●●●●",
+            "new_num": "1.46",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "357",
+            "trend_name": "Anku",
+            "new_dot": "●●●●●",
+            "new_num": "1.46",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "358",
+            "trend_name": "MK1-Furax",
+            "new_dot": "●●●●●",
+            "new_num": "1.45",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "359",
+            "trend_name": "Dual Ether",
+            "new_dot": "●●●●●",
+            "new_num": "1.45",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "360",
+            "trend_name": "Machete",
+            "new_dot": "●●●●●",
+            "new_num": "1.45",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "361",
+            "trend_name": "Prisma Machete",
+            "new_dot": "●●●●●",
+            "new_num": "1.45",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "362",
+            "trend_name": "Ether Reaper",
+            "new_dot": "●●●●●",
+            "new_num": "1.45",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "363",
+            "trend_name": "Ankyros Prime",
+            "new_dot": "●●●●●",
+            "new_num": "1.45",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "364",
+            "trend_name": "Kestrel",
+            "new_dot": "●●●●●",
+            "new_num": "1.45",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "365",
+            "trend_name": "Halikar",
+            "new_dot": "●●●●●",
+            "new_num": "1.44",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "366",
+            "trend_name": "Heat Dagger",
+            "new_dot": "●●●●●",
+            "new_num": "1.44",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "367",
+            "trend_name": "Dual Zoren",
+            "new_dot": "●●●●●",
+            "new_num": "1.44",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "368",
+            "trend_name": "Ether Sword",
+            "new_dot": "●●●●●",
+            "new_num": "1.44",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "369",
+            "trend_name": "Dual Heat Swords",
+            "new_dot": "●●●●●",
+            "new_num": "1.44",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "370",
+            "trend_name": "Gram",
+            "new_dot": "●●●●●",
+            "new_num": "1.44",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "371",
+            "trend_name": "Nami Solo",
+            "new_dot": "●●●●●",
+            "new_num": "1.43",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "372",
+            "trend_name": "Ceramic Dagger",
+            "new_dot": "●●●●●",
+            "new_num": "1.43",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "373",
+            "trend_name": "Kronen",
+            "new_dot": "●●●●●",
+            "new_num": "1.43",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "374",
+            "trend_name": "Ninkondi",
+            "new_dot": "●●●●●",
+            "new_num": "1.41",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "375",
+            "trend_name": "Prova",
+            "new_dot": "●●●●●",
+            "new_num": "1.4",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "376",
+            "trend_name": "Dual Raza",
+            "new_dot": "●●●●●",
+            "new_num": "1.4",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "377",
+            "trend_name": "MK1-Bo",
+            "new_dot": "●●●●●",
+            "new_num": "1.4",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "378",
+            "trend_name": "Okina",
+            "new_dot": "●●●●●",
+            "new_num": "1.4",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "379",
+            "trend_name": "Jaw Sword",
+            "new_dot": "●●●●●",
+            "new_num": "1.4",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "380",
+            "trend_name": "Endura",
+            "new_dot": "●●●●●",
+            "new_num": "1.4",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "381",
+            "trend_name": "Broken Scepter",
+            "new_dot": "●●●●●",
+            "new_num": "1.4",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "382",
+            "trend_name": "Gazal Machete",
+            "new_dot": "●●●●●",
+            "new_num": "1.4",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "383",
+            "trend_name": "Tekko",
+            "new_dot": "●●●●●",
+            "new_num": "1.4",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "384",
+            "trend_name": "Machete Wraith",
+            "new_dot": "●●●●●",
+            "new_num": "1.4",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "385",
+            "trend_name": "Kogake Prime",
+            "new_dot": "●●●●●",
+            "new_num": "1.4",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "386",
+            "trend_name": "Furax",
+            "new_dot": "●●●●●",
+            "new_num": "1.38",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "387",
+            "trend_name": "Serro",
+            "new_dot": "●●●●●",
+            "new_num": "1.38",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "388",
+            "trend_name": "Tonbo",
+            "new_dot": "●●●●●",
+            "new_num": "1.38",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "389",
+            "trend_name": "Ripkas",
+            "new_dot": "●●●●●",
+            "new_num": "1.38",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "390",
+            "trend_name": "Fang",
+            "new_dot": "●●●●●",
+            "new_num": "1.36",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "391",
+            "trend_name": "Ack & Brunt",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "392",
+            "trend_name": "Heliocor",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "393",
+            "trend_name": "Kreska",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "394",
+            "trend_name": "Galvacord",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "395",
+            "trend_name": "Kesheg",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "396",
+            "trend_name": "Karyst",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "397",
+            "trend_name": "Korrudo",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "398",
+            "trend_name": "Magistar",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "399",
+            "trend_name": "Gunsen",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "400",
+            "trend_name": "Krohkur",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "401",
+            "trend_name": "Bo Prime",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "402",
+            "trend_name": "Shaku",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "403",
+            "trend_name": "Sheev",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "404",
+            "trend_name": "Sibear",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "405",
+            "trend_name": "Bo",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "406",
+            "trend_name": "Cassowar",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "407",
+            "trend_name": "Sydon",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "408",
+            "trend_name": "Synoid Heliocor",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "409",
+            "trend_name": "Volnus",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "410",
+            "trend_name": "Scindo",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "411",
+            "trend_name": "Jat Kittag",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "412",
+            "trend_name": "Prova Vandal",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "413",
+            "trend_name": "Dex Dakra",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "414",
+            "trend_name": "Orvius",
+            "new_dot": "●●●●●",
+            "new_num": "1.35",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "415",
+            "trend_name": "Tipedo",
+            "new_dot": "●●●●●",
+            "new_num": "1.31",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "416",
+            "trend_name": "Lacera",
+            "new_dot": "●●●●●",
+            "new_num": "1.31",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "417",
+            "trend_name": "Vaykor Sydon",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "418",
+            "trend_name": "Tekko Prime",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "419",
+            "trend_name": "Nami Skyla",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "420",
+            "trend_name": "Twin Basolk",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "421",
+            "trend_name": "Scoliac",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "422",
+            "trend_name": "Obex",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "423",
+            "trend_name": "Mire",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "424",
+            "trend_name": "Skana",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "425",
+            "trend_name": "Pathocyst",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "426",
+            "trend_name": "Mios",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "427",
+            "trend_name": "Glaive",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "428",
+            "trend_name": "Arca Titron",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "429",
+            "trend_name": "Falcor",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "430",
+            "trend_name": "Cobra & Crane",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "431",
+            "trend_name": "Fang Prime",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "432",
+            "trend_name": "Cerata",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "433",
+            "trend_name": "Caustacyst",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "434",
+            "trend_name": "Dark Split-Sword",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "435",
+            "trend_name": "Cadus",
+            "new_dot": "●●●●○",
+            "new_num": "1.29",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "436",
+            "trend_name": "Sancti Magistar",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "437",
+            "trend_name": "Destreza",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "438",
+            "trend_name": "Lecta",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "439",
+            "trend_name": "Prisma Obex",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "440",
+            "trend_name": "Dual Ichor",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "441",
+            "trend_name": "Boltace",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "442",
+            "trend_name": "Tipedo Prime",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "443",
+            "trend_name": "Wolf Sledge",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "444",
+            "trend_name": "Twin Krohkur",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "445",
+            "trend_name": "Prisma Skana",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "446",
+            "trend_name": "Skana Prime",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "447",
+            "trend_name": "Secura Lecta",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "448",
+            "trend_name": "Pulmonars",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "449",
+            "trend_name": "Dual Cleavers",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "450",
+            "trend_name": "Fragor",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "451",
+            "trend_name": "Zenistar",
+            "new_dot": "●●●●○",
+            "new_num": "1.15",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "452",
+            "trend_name": "Broken War",
+            "new_dot": "●●●●○",
+            "new_num": "1.15",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "453",
+            "trend_name": "Dragon Nikana",
+            "new_dot": "●●●●○",
+            "new_num": "1.15",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "454",
+            "trend_name": "Halikar Wraith",
+            "new_dot": "●●●●○",
+            "new_num": "1.15",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "455",
+            "trend_name": "Destreza Prime",
+            "new_dot": "●●●○○",
+            "new_num": "1.14",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "456",
+            "trend_name": "Venka",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "457",
+            "trend_name": "Hate",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "458",
+            "trend_name": "Ninkondi Prime",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "459",
+            "trend_name": "Dual Keres",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "460",
+            "trend_name": "Dark Dagger",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "461",
+            "trend_name": "Dakra Prime",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "462",
+            "trend_name": "Prisma Dual Cleavers",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "463",
+            "trend_name": "Hirudo",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "464",
+            "trend_name": "Galatine",
+            "new_dot": "●●●○○",
+            "new_num": "1.05",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "465",
+            "trend_name": "Guandao",
+            "new_dot": "●●●○○",
+            "new_num": "1.05",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "466",
+            "trend_name": "Redeemer",
+            "new_dot": "●●●○○",
+            "new_num": "1.05",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "467",
+            "trend_name": "War",
+            "new_dot": "●●●○○",
+            "new_num": "1.05",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "468",
+            "trend_name": "Fragor Prime",
+            "new_dot": "●●●○○",
+            "new_num": "1.05",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "469",
+            "trend_name": "Tatsu",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "470",
+            "trend_name": "Desert Wind",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "471",
+            "trend_name": "Pangolin Prime",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "472",
+            "trend_name": "Orthos",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "473",
+            "trend_name": "Diwata",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "474",
+            "trend_name": "仙女 Prime",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "475",
+            "trend_name": "Garuda Talons",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "476",
+            "trend_name": "Valkyr之爪 Prime",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "477",
+            "trend_name": "显赫刀剑 Prime",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "478",
+            "trend_name": "Quassus",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "479",
+            "trend_name": "Valkyr Talons",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "480",
+            "trend_name": "Iron Staff",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "481",
+            "trend_name": "Exalted Blade",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "482",
+            "trend_name": "Iron Staff Prime",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "483",
+            "trend_name": "Nami Skyla Prime",
+            "new_dot": "●●●○○",
+            "new_num": "0.95",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "484",
+            "trend_name": "Nikana",
+            "new_dot": "●●●○○",
+            "new_num": "0.95",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "485",
+            "trend_name": "Skiajati",
+            "new_dot": "●●●○○",
+            "new_num": "0.9",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "486",
+            "trend_name": "Pennant",
+            "new_dot": "●●○○○",
+            "new_num": "0.85",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "487",
+            "trend_name": "Venka Prime",
+            "new_dot": "●●○○○",
+            "new_num": "0.8",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "488",
+            "trend_name": "Kuva Shildeg",
+            "new_dot": "●●○○○",
+            "new_num": "0.75",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "489",
+            "trend_name": "Vastilok",
+            "new_dot": "●●○○○",
+            "new_num": "0.75",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "490",
+            "trend_name": "Gram Prime",
+            "new_dot": "●●○○○",
+            "new_num": "0.75",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "491",
+            "trend_name": "Reaper Prime",
+            "new_dot": "●●○○○",
+            "new_num": "0.7",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "492",
+            "trend_name": "Glaive Prime",
+            "new_dot": "●●○○○",
+            "new_num": "0.7",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "493",
+            "trend_name": "Orthos Prime",
+            "new_dot": "●●○○○",
+            "new_num": "0.7",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "494",
+            "trend_name": "Guandao Prime",
+            "new_dot": "●○○○○",
+            "new_num": "0.65",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "495",
+            "trend_name": "Xoris",
+            "new_dot": "●○○○○",
+            "new_num": "0.65",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "496",
+            "trend_name": "Dual Keres Prime",
+            "new_dot": "●○○○○",
+            "new_num": "0.6",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "497",
+            "trend_name": "Kronen Prime",
+            "new_dot": "●○○○○",
+            "new_num": "0.6",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "498",
+            "trend_name": "Nikana Prime",
+            "new_dot": "●○○○○",
+            "new_num": "0.6",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "499",
+            "trend_name": "Paracesis",
+            "new_dot": "●○○○○",
+            "new_num": "0.6",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "500",
+            "trend_name": "Redeemer Prime",
+            "new_dot": "●○○○○",
+            "new_num": "0.6",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "501",
+            "trend_name": "Shadow Claws",
+            "new_dot": "●○○○○",
+            "new_num": "0.5",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "502",
+            "trend_name": "Sarofang",
+            "new_dot": "●○○○○",
+            "new_num": "0.5",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "503",
+            "trend_name": "Corufell",
+            "new_dot": "●○○○○",
+            "new_num": "0.5",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "504",
+            "trend_name": "Stropha",
+            "new_dot": "●○○○○",
+            "new_num": "0.5",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "505",
+            "trend_name": "Cyngas",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "ARCHGUN"
+        },
+        {
+            "id": "506",
+            "trend_name": "Dual Decurion",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "ARCHGUN"
+        },
+        {
+            "id": "507",
+            "trend_name": "Prisma Arch Heavy Pistols",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "ARCHGUN"
+        },
+        {
+            "id": "508",
+            "trend_name": "Corvas",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "ARCHGUN"
+        },
+        {
+            "id": "509",
+            "trend_name": "Grattler",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "ARCHGUN"
+        },
+        {
+            "id": "510",
+            "trend_name": "Imperator",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "ARCHGUN"
+        },
+        {
+            "id": "511",
+            "trend_name": "Velocitus",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "ARCHGUN"
+        },
+        {
+            "id": "512",
+            "trend_name": "Fluctus",
+            "new_dot": "●●●○○",
+            "new_num": "1.05",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "ARCHGUN"
+        },
+        {
+            "id": "513",
+            "trend_name": "Morgha",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "ARCHGUN"
+        },
+        {
+            "id": "514",
+            "trend_name": "Larkspur",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "ARCHGUN"
+        },
+        {
+            "id": "515",
+            "trend_name": "Cortege",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "ARCHGUN"
+        },
+        {
+            "id": "516",
+            "trend_name": "Kuva Grattler",
+            "new_dot": "●●○○○",
+            "new_num": "0.7",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "ARCHGUN"
+        },
+        {
+            "id": "517",
+            "trend_name": "Arquebex",
+            "new_dot": "●○○○○",
+            "new_num": "0.5",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "ARCHGUN"
+        },
+        {
+            "id": "518",
+            "trend_name": "Mausolon",
+            "new_dot": "●○○○○",
+            "new_num": "0.5",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "ARCHGUN"
+        },
+        {
+            "id": "519",
+            "trend_name": "Deth Machine Rifle Prime",
+            "new_dot": "●●●●●",
+            "new_num": "1.455",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "520",
+            "trend_name": "Deth Machine Rifle",
+            "new_dot": "●●●●●",
+            "new_num": "1.455",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "521",
+            "trend_name": "Burst Laser",
+            "new_dot": "●●●●●",
+            "new_num": "1.45",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "522",
+            "trend_name": "Stinger",
+            "new_dot": "●●●●●",
+            "new_num": "1.315",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "523",
+            "trend_name": "Verglas",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "524",
+            "trend_name": "Deconstructor",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "525",
+            "trend_name": "Deconstructor Prime",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "526",
+            "trend_name": "Vulklok",
+            "new_dot": "●●●●○",
+            "new_num": "1.245",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "527",
+            "trend_name": "Laser Rifle",
+            "new_dot": "●●●●○",
+            "new_num": "1.21",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "528",
+            "trend_name": "Sweeper",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "529",
+            "trend_name": "Sweeper Prime",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "530",
+            "trend_name": "Multron",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "531",
+            "trend_name": "Tazicor",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "532",
+            "trend_name": "Artax",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "533",
+            "trend_name": "Akaten",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "534",
+            "trend_name": "Batoten",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "535",
+            "trend_name": "Cryotra",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "536",
+            "trend_name": "Lacerten",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "537",
+            "trend_name": "Helstrum",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "538",
+            "trend_name": "Vulcax",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "539",
+            "trend_name": "Kronsh",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "540",
+            "trend_name": "Rabvee",
+            "new_dot": "●●●●●",
+            "new_num": "1.3",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "541",
+            "trend_name": "Ooltha",
+            "new_dot": "●●●●○",
+            "new_num": "1.25",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "542",
+            "trend_name": "Dehtat",
+            "new_dot": "●●●●○",
+            "new_num": "1.2",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "543",
+            "trend_name": "Mewan",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "544",
+            "trend_name": "Dokrahm",
+            "new_dot": "●●○○○",
+            "new_num": "0.75",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "545",
+            "trend_name": "Sepfahn",
+            "new_dot": "●●○○○",
+            "new_num": "0.7",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "MELEE"
+        },
+        {
+            "id": "546",
+            "trend_name": "Sporelacer (Primary)",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "547",
+            "trend_name": "Sporelacer (Secondary)",
+            "new_dot": "●○○○○",
+            "new_num": "0.55",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "548",
+            "trend_name": "Vermisplicer (Primary)",
+            "new_dot": "●●●○○",
+            "new_num": "0.9",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "549",
+            "trend_name": "Vermisplicer (Secondary)",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "550",
+            "trend_name": "Catchmoon (Primary)",
+            "new_dot": "●●●○○",
+            "new_num": "1.1",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "SHOTGUN"
+        },
+        {
+            "id": "551",
+            "trend_name": "Gaze (Primary)",
+            "new_dot": "●●●○○",
+            "new_num": "1.05",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "552",
+            "trend_name": "Tombfinger (Primary)",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "553",
+            "trend_name": "Rattleguts (Primary)",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "RIFLE"
+        },
+        {
+            "id": "554",
+            "trend_name": "Rattleguts (Secondary)",
+            "new_dot": "●●○○○",
+            "new_num": "0.8",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "555",
+            "trend_name": "Gaze (Secondary)",
+            "new_dot": "●●●○○",
+            "new_num": "1.0",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        },
+        {
+            "id": "556",
+            "trend_name": "Catchmoon (Secondary)",
+            "new_dot": "●○○○○",
+            "new_num": "0.55",
+            "old_dot": "●○○○○",
+            "old_num": "0",
+            "type": "PISTOL"
+        }
+    ]
+}
