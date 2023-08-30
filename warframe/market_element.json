@@ -2,37 +2,37 @@
     "RECORDS": [
         {
             "en": "electricity",
-            "ch": "电击",
+            "cn": "电击",
             "id": "1"
         },
         {
             "en": "impact",
-            "ch": "冲击",
+            "cn": "冲击",
             "id": "2"
         },
         {
             "en": "radiation",
-            "ch": "辐射",
+            "cn": "辐射",
             "id": "3"
         },
         {
             "en": "magnetic",
-            "ch": "磁力",
+            "cn": "磁力",
             "id": "4"
         },
         {
             "en": "cold",
-            "ch": "冰冻",
+            "cn": "冰冻",
             "id": "5"
         },
         {
             "en": "toxin",
-            "ch": "毒素",
+            "cn": "毒素",
             "id": "6"
         },
         {
             "en": "heat",
-            "ch": "火焰",
+            "cn": "火焰",
             "id": "7"
         }
     ]
