@@ -68095,6 +68095,41 @@
       "en": "Free one Captured Solans using a Granum Crown",
       "is_prime": false,
       "is_set": false
+    },
+    {
+      "id": "9729",
+      "cn": "哈维光度涂鸦",
+      "en": "Javis Experiments Poster C",
+      "is_prime": false,
+      "is_set": false
+    },
+    {
+      "id": "9730",
+      "cn": "后纪 A2 遗物 (完整)",
+      "en": "Axi A2 Relic (Intact)",
+      "is_prime": false,
+      "is_set": false
+    },
+    {
+      "id": "9731",
+      "cn": "绿色 Ki'teer 游猎K式悬浮板涂鸦",
+      "en": "Green Ki'teer Safari K-Drive Scrawl",
+      "is_prime": false,
+      "is_set": false
+    },
+    {
+      "id": "9732",
+      "cn": "火卫二喉骨刃者 Prex 卡牌",
+      "en": "Deimos Jugulus Prex",
+      "is_prime": false,
+      "is_set": false
+    },
+    {
+      "id": "9733",
+      "cn": "火卫二重岩者 Prex 卡牌",
+      "en": "Deimos Saxum Prex",
+      "is_prime": false,
+      "is_set": false
     }
   ]
 }
