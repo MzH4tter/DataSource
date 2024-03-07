@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8"/>
+    <title>每日特惠</title>
+    <link th:href="@{/css/index.css}" rel="stylesheet"/>
+</head>
+<body>
+<!--
+       生成图片的宽度
+    -->
+<w>
+1290
+</w>
+<div>
+    <div class="card">
+        <div class="card-layer">
+            <div class="daily">
+
+                <h1>每日特惠</h1>
+                <table>
+                    <tr>
+                        <td>
+                            物品名称：
+                        </td>
+                        <td th:text="${deals.item}">#Item</td>
+
+                    </tr>
+                    <tr>
+                        <td>
+                            原价/现价：
+                        </td>
+                        <td th:text="${deals.originalPrice}+'/'+${deals.salePrice}">
+                            #Origin/#Sale
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            折扣比：
+                        </td>
+                        <td th:text="${deals.discount}+' %'">
+                            #Discount
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            总/余：
+                        </td>
+                        <td th:text="${deals.total} == ${deals.sold}?${deals.total}+' / 0' : ${deals.total}+' / '+ ${deals.sold}">
+                            #Total/#Sold
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            剩余时间：
+                        </td>
+                        <td th:text="${deals.eta}">
+                            #End
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+</body>
+</html>

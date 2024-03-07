@@ -1,0 +1,521 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Source", system-ui;
+    word-spacing: 5px;
+    text-align: center;
+    font-size: 18px;
+}
+
+@font-face {
+    font-family: "Source";
+    src: url("ttf/SourceHanSerifCN-Bold.ttf");
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+}
+
+table {
+    width: 100%;
+}
+
+h1 {
+    font-weight: bold;
+    align-items: center;
+}
+
+h3 {
+    /* text-indent: 25px; */
+    font-weight: bold;
+    align-items: center;
+    text-align: center;
+}
+
+.cycleTime {
+    text-indent: 35%;
+}
+
+.cycle table {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+td {
+    text-align: center;
+    font-weight: bold;
+}
+
+.arbitration table {
+    width: 100%;
+}
+
+.daily table {
+    width: 100%;
+}
+
+.steePath table {
+    width: 100%;
+}
+
+.assault table tr {
+    display: block;
+    margin: 3px 0;
+}
+
+.fissues {
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+.fissues table {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.fissues h3 {
+    color: #12AA9C;
+}
+
+.fissues .t1 {
+    margin-bottom: 20px;
+    color: #BBAA9D;
+}
+
+.fissues .t2 {
+    margin-bottom: 20px;
+    color: #A9A992;
+}
+
+.fissues .t3 {
+    margin-bottom: 20px;
+    color: #AFAFAF;
+}
+
+.fissues .t4 {
+    margin-bottom: 20px;
+    color: #B29C66;
+}
+
+.fissues .t5 {
+    margin-bottom: 20px;
+    color: #591A1C;
+}
+
+.nighTwave {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.nighTwave h3 {
+    color: #12AA9C;
+    margin-top: 20px;
+}
+
+.nighTwave .day {
+    color: rgb(171, 105, 0);
+}
+
+.nighTwave .week {
+    color: rgb(46, 112, 167);
+}
+
+.nighTwave .elite {
+    color: rgb(250, 192, 0);
+}
+
+.invasions td th td {
+    align-items: center;
+    text-indent: 25px;
+}
+
+
+.card {
+    width: fit-content;
+    margin: 0 auto;
+    position: relative;
+}
+
+.card-layer {
+    position: relative;
+    border-radius: 20px;
+    border: 10px double #555;
+    margin: 10px;
+    background-color: #fffefa;
+}
+
+.card-layer div {
+    background-color: #fffefa;
+    border-radius: 20px;
+}
+
+.auto {
+    margin: 0 auto;
+    text-align: center;
+    color: #555;
+}
+
+.voidTrader {
+    margin: 0 auto;
+    text-align: center;
+    border-collapse: collapse;
+    width: 100%;
+    text-indent: 20px;
+}
+
+.voidTraderOut {
+    margin: 0 auto;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.voidTraderOut td:nth-child(1) {
+    color: #cf62f0;
+}
+
+.voidTraderOut td:nth-child(2) {
+    color: #2da7ee;
+}
+
+.voidTrader th {
+    text-align: center;
+    background-color: #CCE8EB;
+    border: 1px solid #cad9ea;
+}
+
+.voidTrader tr:nth-child(odd) {
+    background: #fff;
+}
+
+.voidTrader td:nth-child(1) {
+    color: #cf62f0;
+}
+
+.voidTrader tr:nth-child(even) {
+    background: #F5FAFA;
+}
+
+.voidTrader td:nth-child(2) {
+    color: #2da7ee;
+    background-image: url(../img/Credits.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.voidTrader td:nth-child(3) {
+    color: #B29C66;
+    background-image: url(../img/Ducats.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.table-css {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.table-css th {
+    background-color: #CCE8EB;
+    border: 1px solid #cad9ea;
+}
+
+.tra {
+    margin: 0 auto;
+    text-align: center;
+    border-spacing: 10px 10px;
+}
+
+.tra td {
+    text-align: center;
+}
+
+.tra tr:nth-child(odd) {
+    background: #dfebec;
+}
+
+.tra tr:nth-child(even) {
+    background: #F5FAFA;
+}
+
+.foot-by {
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+}
+
+.market td:nth-child(3) {
+    background-image: url(../img/PlatinumLarge.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    color: rgb(14, 176, 201);
+}
+
+.market td:nth-child(1) {
+    color: rgb(252, 99, 21);
+}
+
+.market td:nth-child(2) {
+    color: rgb(46, 112, 167);
+}
+
+.market tr:nth-child(odd) {
+    background: #dfebec;
+}
+
+.market tr:nth-child(even) {
+    background: #F5FAFA;
+}
+
+.market p {
+    width: 100%;
+    text-indent: 20px;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+
+.market div {
+    margin-top: 20px;
+}
+
+.las div {
+    margin-top: 20px;
+}
+
+.las td:nth-child(1) {
+    color: rgb(252, 99, 21);
+}
+
+.las table {
+    border-collapse: collapse;
+    padding: 0;
+}
+
+.las tr:nth-child(odd) {
+    background: #dfebec;
+    border: 2px solid #ccc;
+}
+
+.las tr:nth-child(even) {
+    background: #F5FAFA;
+    border: 2px solid #ccc;
+}
+
+.riven {
+    border-collapse: separate;
+    border-spacing: 10px 10px;
+}
+
+.riven td {
+    width: 1%;
+}
+
+.riven tr {
+    background: #edeff0;
+}
+
+
+.naramon {
+    background-image: url(../img/Naramon.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.madurai {
+    background-image: url(../img/Madurai.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.vazarin {
+    background-image: url(../img/Vazarin.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.marketDumps table {
+    margin-bottom: 20px;
+    border-collapse: separate;
+    border-spacing: 10px;
+}
+
+.marketDumps caption {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.marketDumps table:nth-child(1) td {
+    color: #E6BE8A;
+}
+
+.marketDumps table:nth-child(2) td {
+    color: #C0C0C0;
+}
+
+
+.marketDumps {
+    background-color: #F8EBBC;
+}
+
+.rel {
+    display: inline-block;
+    height: 100%;
+    /*background-image: url("../img/axirel.png");*/
+}
+
+.syndicate {
+    border-collapse: separate;
+    border-spacing: 10px 10px;
+}
+
+.syndicate-1 p {
+    background-color: beige;
+}
+
+.syndicate-2 p {
+    background-color: azure;
+}
+
+.syndicate-3 p {
+    background-color: beige;
+}
+
+.syndicate-4 p {
+    background-color: azure;
+}
+
+.syndicate-5 p {
+    background-color: azure;
+}
+
+.syndicate-6 p {
+    background-color: beige;
+}
+
+.syndicate-7 p {
+    background-color: azure;
+}
+
+.syndicate-8 p {
+    background-color: beige;
+}
+
+/*后纪*/
+.relics-Axi {
+    background-image: url("../img/relics/axi.png");
+    background-size: 40px;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+/*古纪*/
+.relics-Lith {
+    background-image: url("../img/lith.png");
+    background-size: 40px;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+/*前纪*/
+.relics-Meso {
+    background-image: url("../img/meso.png");
+    background-size: 40px;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+/*中纪*/
+.relics-Neo {
+    background-image: url("../img/neo.png");
+    background-size: 40px;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.relics {
+    width: 100%;
+}
+
+.relics tr:nth-child(-n+3):nth-child(n+1) {
+    color: #E6BE8A;
+}
+
+.relics tr:nth-child(4) {
+    color: #B29C66;
+}
+
+.relics tr:nth-child(-n+6):nth-child(n+5) {
+    color: #C0C0C0;
+}
+
+.relics tr:nth-child(7) {
+    color: #C0C0C0;
+}
+
+.relics-t {
+    color: #E6BE8A;
+}
+
+.relics-y {
+    color: #C0C0C0;
+}
+
+.relics-j {
+    color: #B29C66;
+}
+
+.relics-color td:nth-child(even) {
+    background-color: #61649c;
+}
+
+.relics-backcolor {
+    position: relative;
+    border-radius: 20px;
+    border: 10px double #ccccd6;
+    margin: 10px;
+    background-color: #61649f;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+}
+
+.mid-group {
+    flex: 1;
+    text-align: left;
+}
+
+.foot {
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.content {
+    border: 2px solid #fff;
+    margin: 15px;
+    background-color: #0A0F10;
+}
+
+.task {
+    text-align: left;
+    font-size: 24px;
+}
+
+.fissues-type {
+    text-align: left;
+    font-size: 20px;
+}
+
+.head-fissues {
+    text-align: left;
+    font-size: 24px;
+}

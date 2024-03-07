@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="zh" xmlns:th="http://www.thymeleaf.org">
+	<head>
+		<meta charset="UTF-8" />
+		<link th:href="@{/css/index.css}" rel="stylesheet" />
+		<title>突击</title>
+		<style>
+			.assault {
+				text-align: left;
+				font-size: 18px;
+			}
+
+			.time {
+				text-align: right;
+				font-size: 18px;
+			}
+
+			body {
+				color: #fff;
+				background-color: #283B47;
+			}
+
+			table {
+				width: 100%;
+				text-align: left;
+			}
+
+			.head {
+				width: 100%;
+				table-layout: fixed;
+			}
+
+			.contents {
+				border-bottom: 2px solid;
+
+				margin: 15px;
+				background-color: #2C414E;
+			}
+		</style>
+	</head>
+	<body>
+		<!--
+   生成图片的宽度
+-->
+		<w>
+			1580
+		</w>
+		<div class="contents">
+			<table class="head">
+				<tr>
+					<td style="text-align: left; font-size: 24px; color: #4EC0FB">
+						突击
+					</td>
+					<td th:text="${assault.eta}" style="text-align: right;font-size: 20px; color: #4EC0FB">
+
+					</td>
+				</tr>
+			</table>
+
+			<hr />
+			<table th:each="item:${assault.variants}">
+				<tr>
+					<td th:text="${item.missionType}" style="font-size: 24px; color: #FA8B9D;"></td>
+				</tr>
+				<tr>
+					<td th:text="${item.node}" style="color: #6E86ED;"></td>
+				</tr>
+				<tr>
+					<td th:text="'状态: '+${item.modifier}"></td>
+				</tr>
+			</table>
+
+		</div>
+	</body>
+</html>

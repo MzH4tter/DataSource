@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="zh" xmlns:th="http://www.thymeleaf.org">
+    <head>
+        <meta charset="UTF-8"/>
+        <title>Help</title>
+        <link href="../css/index.css" rel="stylesheet" th:href="@{/css/index.css}"/>
+    </head>
+    <w>2500</w>
+    <body style="background-color: #FFFFFF">
+        <div style="text-align: center">
+            <table>
+                <thead>
+                    <tr style="color:#006dcc;">
+                        <th>指令</th>
+                        <th>权限等级</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr th:each="c:${codes}">
+                        <td th:text="${c.key}" th:style="${c.value == '管理员用户' ? 'color: #0aa143' : (c.value == '超级管理员用户' ? 'color: red' : '')}"></td>
+                        <td th:text="${c.value}" th:style="${c.value == '管理员用户' ? 'color: #0aa143' : (c.value == '超级管理员用户' ? 'color: red' : '')}"></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </body>
+</html>

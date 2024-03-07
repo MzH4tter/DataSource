@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8"/>
+    <title>入侵</title>
+    <link th:href="@{/css/index.css}" rel="stylesheet"/>
+    <style>
+        hr {
+            margin: 2px;
+        }
+
+        body {
+            color: #fff;
+            background-color: #122028;
+        }
+
+        .content table {
+            width: 100%;
+        }
+
+        h2 {
+            text-align: left;
+        }
+
+        progress {
+            width: 100%;
+            border: 3px solid;
+        }
+
+        ul {
+
+            text-align: left;
+        }
+
+        .invasionsReward {
+            table-layout: fixed;
+        }
+
+        .rewardItem {
+            color: aqua;
+            font-size: 24px;
+        }
+
+        .progress {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .progress td {
+            border-top: 4px solid #fff;
+            border-bottom: 4px solid #fff;
+            height: 20px;
+        }
+
+        .progress td:nth-child(1) {
+            border-left: 4px solid #fff;
+            background-color: #ccc;
+        }
+
+        .progress td:nth-child(2) {
+            border-right: 4px solid #fff;
+            background-color: aquamarine;
+        }
+
+    </style>
+</head>
+<body>
+<!--
+       生成图片的宽度
+    -->
+<w>
+    2200
+</w>
+<div>
+    <div class="head-fissues">
+        入侵
+    </div>
+    <hr/>
+    <div>
+        <div class="content" th:each="t:${inv}">
+            <table>
+                <tr>
+                    <!-- 派系图标 -->
+                    <td><img th:src="@{'/img/faction/'+${t.attacker.faction}+'.png'}"/></td>
+                    <td style="text-align: left;">
+                        <ul>
+                            <!-- 任务地点 -->
+                            <li>
+                                <span class="task" th:text="${t.node} "></span>
+                                <span class="task" style="color: aquamarine;" th:text="'('+ ${t.desc} +')'"></span>
+                            </li>
+                            <!-- 进度条 -->
+                            <li>
+                                <table class="progress">
+                                    <tr>
+                                        <td th:width="${t.completion}+'%'"></td>
+                                        <td th:width="100 - ${t.completion}+'%'"></td>
+                                    </tr>
+                                </table>
+                            </li>
+                        </ul>
+                    </td>
+                    <!-- 派系图标 -->
+                    <td><img th:src="@{'/img/faction/'+${t.defender.faction}+'.png'}"/></td>
+                </tr>
+
+                <!-- 进度与奖励 -->
+                <tr>
+                    <td th:text="${t.attacker.faction}+' '+${t.completion}+'%'"></td>
+                    <td>
+                        <!-- 奖励 -->
+                        <table class="invasionsReward">
+                            <tr>
+                                <!-- 攻方奖励 -->
+                                <!--th:style="'color: #'+${t.attacker.reward.colo}"-->
+                                <td th:text="${!t.attacker.reward.countedItems.isEmpty()}?${t.attacker.reward.countedItems[0].count}+'X '+${t.attacker.reward.countedItems[0].type}:'-'"
+                                    class="rewardItem">-
+                                </td>
+                                <td></td>
+                                <!-- 防方奖励 -->
+                                <!--th:style="'color: #'+${t.defender.reward.colo}"-->
+                                <td th:text="${!t.defender.reward.countedItems.isEmpty()}?${t.defender.reward.countedItems[0].count}+'X '+${t.defender.reward.countedItems[0].type}:'-'"
+                                    class="rewardItem">-
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td th:text="100 - ${t.completion}+'% '+${t.defender.faction} "></td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

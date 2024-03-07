@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta charset="UTF-8"/>
+    <link th:href="@{/css/index.css}" rel="stylesheet"/>
+    <title>相似的物品</title>
+</head>
+
+<body>
+<w>
+    1800
+</w>
+<div>
+    <div class="card">
+        <div class="card-layer">
+            <div>
+                <h1>---您可能是想要查询以下物品---</h1>
+                <table class="table-css">
+                    <tr th:each="i:${items}">
+                        <td th:text="${i}">可能的物品</td>
+                    </tr>
+                </table>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+</body>
+
+</html>
