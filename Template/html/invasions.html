@@ -113,7 +113,8 @@
                             <tr>
                                 <!-- 攻方奖励 -->
                                 <!--th:style="'color: #'+${t.attacker.reward.colo}"-->
-                                <td th:text="${!t.attacker.reward.countedItems.isEmpty()}?${t.attacker.reward.countedItems[0].count}+'X '+${t.attacker.reward.countedItems[0].type}:'-'"
+                                <td th:if="${!t.vsInfestation}"
+                                    th:text="${!t.attacker.reward.countedItems.isEmpty()}?${t.attacker.reward.countedItems[0].count}+'X '+${t.attacker.reward.countedItems[0].type}:'-'"
                                     class="rewardItem">-
                                 </td>
                                 <td></td>
