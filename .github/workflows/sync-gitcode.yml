@@ -4,19 +4,6 @@ on:
   push:
     branches:
       - main
-  workflow_dispatch:
-    inputs:
-      logLevel:
-        description: 'Log level'
-        required: true
-        default: 'info'
-        type: choice
-        options:
-          - debug
-          - info
-          - warning
-          - error
-
 jobs:
   to_gitlab:
     runs-on: ubuntu-latest
@@ -36,9 +23,19 @@ jobs:
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
-      - uses: pixta-dev/repository-mirroring-action@v1
+      - uses: yesolutions/mirror-action@master
         with:
-          target_repo_url:
-            git@gitcode.com:KingPrimes/DataSource.git
-          ssh_private_key:
-            ${{ secrets.SSH_PRIVATE_KEY }}
+          REMOTE: 'https://gitcode.com/KingPrimes/DataSource.git'
+          GIT_USERNAME: KingPrimes
+          GIT_PASSWORD: ${{ secrets.GIT_CODE_COM }}
+  to_gitee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - uses: yesolutions/mirror-action@master
+        with:
+          REMOTE: 'https://gitee.com/KingPrime/DataSource.git'
+          GIT_USERNAME: KingPrime
+          GIT_PASSWORD: ${{ secrets.GIT_EE_COM }}
