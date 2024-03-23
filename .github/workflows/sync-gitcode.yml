@@ -3,7 +3,7 @@ name: Sync to GitCode
 on:
   push:
     branches:
-      - main  # 或者你想要监听的分支
+      - main
   workflow_dispatch:
     inputs:
       logLevel:
@@ -18,20 +18,15 @@ on:
           - error
 
 jobs:
-  sync:
+  to_gitcode:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Setup SSH
-        run: |
-          mkdir -p ~/.ssh
-          echo "${{ secrets.TOGITCODE }}" > ~/.ssh/id_rsa
-          chmod 600 ~/.ssh/id_rsa
-          ssh-keyscan gitcode.com >> ~/.ssh/known_hosts
-
-      - name: Sync to GitCode
-        run: |
-          git remote add gitcode git@gitcode.com:KingPrimes/DataSource.git
-          git push -u gitcode main:main
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - uses: pixta-dev/repository-mirroring-action@v1
+        with:
+          target_repo_url:
+            git@gitcode.com:KingPrimes/DataSource.git
+          ssh_private_key:
+            ${{ secrets.SSH_PRIVATE_KEY }}
