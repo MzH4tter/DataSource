@@ -28,17 +28,6 @@ jobs:
           REMOTE: 'https://gitcode.com/KingPrimes/DataSource.git'
           GIT_USERNAME: KingPrimes
           GIT_PASSWORD: ${{ secrets.GIT_CODE_COM }}
-  to_gitcode_net:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-      - uses: yesolutions/mirror-action@master
-        with:
-          REMOTE: 'https://gitcode.net/KingPrimes/DataSource.git'
-          GIT_USERNAME: KingPrimes
-          GIT_PASSWORD: ${{ secrets.GIT_CODE_NET }}
   to_gitee:
     runs-on: ubuntu-latest
     steps:
