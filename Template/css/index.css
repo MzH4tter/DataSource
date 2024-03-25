@@ -1,15 +1,10 @@
 * {
     padding: 0;
     margin: 0;
-    font-family: "Source", system-ui;
     word-spacing: 5px;
     text-align: center;
+    font-family: "Source", sans-serif;
     font-size: 18px;
-}
-
-@font-face {
-    font-family: "Source";
-    src: url("ttf/SourceHanSerifCN-Bold.ttf");
 }
 
 td {
@@ -23,13 +18,10 @@ table {
 
 h1 {
     font-weight: bold;
-    align-items: center;
 }
 
 h3 {
-    /* text-indent: 25px; */
     font-weight: bold;
-    align-items: center;
     text-align: center;
 }
 
@@ -127,13 +119,11 @@ td {
 }
 
 .invasions td th td {
-    align-items: center;
     text-indent: 25px;
 }
 
 
 .card {
-    width: fit-content;
     margin: 0 auto;
     position: relative;
 }
@@ -274,7 +264,6 @@ td {
     width: 100%;
     text-indent: 20px;
     word-wrap: break-word;
-    word-break: break-all;
 }
 
 .market div {
@@ -481,11 +470,9 @@ td {
 
 .container {
     width: 100%;
-    display: flex;
 }
 
 .mid-group {
-    flex: 1;
     text-align: left;
 }
 

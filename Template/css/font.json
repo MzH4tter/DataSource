@@ -1,0 +1,14 @@
+[
+  {
+    "name": "QTxiaotu",
+    "src": "./ttf/QTxiaotu.ttf"
+  },
+  {
+    "name": "Source",
+    "src": "./ttf/SourceHanSerifCN-Bold.ttf"
+  },
+  {
+    "name": "VeraSeBd",
+    "src": "./ttf/VeraSeBd.ttf"
+  }
+]
