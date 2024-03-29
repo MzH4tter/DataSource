@@ -1,24 +1,147 @@
 <!DOCTYPE html>
-<html lang="zh">
+<html lang="zh" xmlns:th="http://www.thymeleaf.org">
 <head>
     <meta charset="UTF-8"/>
     <title>Warframe.Market紫卡</title>
-    <link href="../css/index.css" rel="stylesheet"/>
+    <link th:href="@{/css/index.css}" rel="stylesheet"/>
+    <style>
+        *{
+            text-align: left;
+            font-size: 16px;
+        }
+        html, body {
+            background-color: #ffffec;
+        }
+        .riven {
+            margin-bottom: 20px;
+            background: #ffffec;
+        }
+        .riven-div {
+            border: 1px dotted #358576;
+            margin-left: 10px;
+            margin-right: 10px;
+        }
+
+        .div-container {
+            padding: 0;
+            margin-bottom: 0;
+        }
+
+        .riven-name {
+            margin-left: 10px;
+            color: #265663;
+            font-size: 20px;
+            font-weight: bold;
+            text-align: center;
+        }
+
+        .ul-container {
+            padding: 0;
+            margin: 0;
+        }
+
+        .li-item {
+            padding-left: 10px;
+            padding-right: 10px;
+            color: rgba(97 114 119);
+        }
+
+        .attributes-true {
+            color: #19a187;
+            font-size: 16px;
+        }
+
+        .attributes-false {
+            color: red;
+            font-size: 16px;
+        }
+
+
+        .owner-name {
+            color: #0697c2;
+        }
+
+
+        .buyout-price {
+            color: #0a9393;
+        }
+
+        .starting-price {
+            color: #0a9393;
+        }
+
+        .top-bid {
+            color: #0a9393;
+        }
+        table{
+            width: auto;
+        }
+        td{
+            text-align: left;
+            padding: 0;
+        }
+    </style>
 </head>
 <body>
 <w>
-    4500
+    2000
 </w>
 <div>
-    <div class="card">
-        <div class="card-layer">
-            <div>
-                <div>
-                    <h1>以下是从Warframe.Market紫卡拍卖网站中查询到的数据！</h1>
-                    #table
-                </div>
-            </div>
-        </div>
+    <h1 style="text-align: center">Warframe.Market紫卡</h1>
+    <table th:if="${not #lists.isEmpty(riven.possibleItems)}">
+        <caption style="text-align: left">可能的物品：</caption>
+        <tbody>
+            <tr th:each="item : ${riven.possibleItems}">
+                <td th:text="${item.item_name}"></td>
+            </tr>
+        </tbody>
+    </table>
+    <div th:if="${#lists.isEmpty(riven.possibleItems)}" th:each="r : ${riven.payload.auctions}" class="riven-div">
+        <table class="riven">
+            <!-- 买断-->
+            <caption th:text="${riven.itemName + ' '+ r.item.name}" class="riven-name"></caption>
+
+            <!--词条信息-->
+            <tbody class="div-container">
+            <tr class="ul-container">
+                <td th:each="a:${r.item.attributes}" th:if="${a.positive}"
+                    th:text="${a.value+a.urlName}" class="li-item attributes-true"></td>
+            </tr>
+            <tr class="ul-container">
+                <td th:each="a:${r.item.attributes}" th:if="${!a.positive}"
+                    th:text="${a.value+a.urlName}" class="li-item attributes-false"></td>
+            </tr>
+            <!--紫卡信息-->
+            <tr class="ul-container">
+                <td th:text="${'段位:'+r.item.masteryLevel}" class="li-item"></td>
+                <td th:text="${'Mod等级:'+r.item.modRank}" class="li-item"></td>
+                <td th:text="${'循环:'+r.item.reRolls}" class="li-item"></td>
+                <td th:text="${'极性:'+r.item.polarity}" class="li-item"></td>
+            </tr>
+            <tr th:if="${r.isDirectSell}" class="ul-container">
+                <td class="li-item">
+                    玩家昵称： <span th:text="${r.owner.ingameName }"
+                                    class="owner-name"></span>
+                </td>
+                <td class="li-item">
+                    买断价格：<span th:text="${ r.buyoutPrice}"
+                                   class="buyout-price"></span>
+                </td>
+            </tr>
+            <!--玩家信息-->
+            <tr th:if="${!r.isDirectSell}" class="ul-container">
+                <td class="li-item">
+                    玩家昵称：<span th:text="${r.owner.ingameName }" class="owner-name"></span>
+                </td>
+                <td class="li-item">
+                    起拍价格： <span th:text="${ r.startingPrice}" class="starting-price"></span>
+                </td>
+                <td class="li-item">
+                    最高出价：<span th:text="${ r.topBid}" class="top-bid"></span>
+                </td>
+            </tr>
+            </tbody>
+        </table>
     </div>
 </div>
 </body>

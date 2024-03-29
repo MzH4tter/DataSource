@@ -293,19 +293,6 @@ td {
     border: 2px solid #ccc;
 }
 
-.riven {
-    border-collapse: separate;
-    border-spacing: 10px 10px;
-}
-
-.riven td {
-    width: 1%;
-}
-
-.riven tr {
-    background: #edeff0;
-}
-
 
 .naramon {
     background-image: url(../img/Naramon.png);

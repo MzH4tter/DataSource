@@ -1,6 +1,5 @@
-@font-face {
-    font-family: "Source";
-    src: url("ttf/SourceHanSerifCN-Bold.ttf");
+* {
+    font-family: "Source", sans-serif;
 }
 
 #warframe_react,
