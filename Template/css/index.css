@@ -7,6 +7,10 @@
     font-size: 18px;
 }
 
+html{
+    background-color: #ffffff;
+}
+
 td {
     text-align: center;
     padding: 5px;

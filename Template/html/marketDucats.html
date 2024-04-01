@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8"/>
+    <title>金银垃圾</title>
+    <link th:href="@{/css/index.css}" rel="stylesheet" href="../css/index.css"/>
+    <style>
+        .day table{
+            background-color: #f1afaf;
+        }
+
+       .hour table{
+            background-color: #aaeeb4;
+       }
+
+    </style>
+</head>
+<body>
+<!--
+       生成图片的宽度
+    -->
+<w>
+   3000
+</w>
+<div class="card">
+    <div class="card-layer">
+        <div>
+            <table>
+                <caption about="top" th:text="${code ? '金垃圾' : '银垃圾'}"></caption>
+                <thead>
+                <tr>
+                    <th>当日</th>
+                    <th>实时</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td th:each="t:${data}" th:if="${t.key == 'day'}" class="day">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>名称</th>
+                                    <th>杜卡币</th>
+                                    <th>?币/白金</th>
+                                    <th>成交均价</th>
+                                    <th>库存</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr th:each="d:${t.value}">
+                                    <td th:text="${d.item}"></td>
+                                    <td th:text="${d.ducats}"></td>
+                                    <td th:text="${d.ducatsPerPlatinumWa}"></td>
+                                    <td th:text="${d.waPrice}"></td>
+                                    <td th:text="${d.volume}"></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                    <td th:each="t:${data}" th:if="${t.key == 'hour'}" class="hour">
+                        <table>
+                            <thead>
+                            <tr>
+                                <th>名称</th>
+                                <th>杜卡币</th>
+                                <th>?币/白金</th>
+                                <th>成交均价</th>
+                                <th>库存</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr th:each="d:${t.value}">
+                                <td th:text="${d.item}"></td>
+                                <td th:text="${d.ducats}"></td>
+                                <td th:text="${d.ducatsPerPlatinumWa}"></td>
+                                <td th:text="${d.waPrice}"></td>
+                                <td th:text="${d.volume}"></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+</body>
+</html>
