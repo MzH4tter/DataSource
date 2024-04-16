@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="zh" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8"/>
+    <link th:href="@{/css/index.css}" rel="stylesheet" href="../css/index.css"/>
+    <title>双衍王境</title>
+    <style>
+        .container {
+            display: flex;
+            text-align: center;
+            justify-content: center;
+        }
+        .container li {
+            margin-right: 20px; /* 可以根据需求调整间距 */
+        }
+        .hard li {
+            margin-top: 10px; /* 钢铁的间距为0 */
+        }
+        li img{
+            width: 80px
+        }
+    </style>
+</head>
+<body>
+<!-- 图片的宽度 按像素计算 -->
+<w>2600</w>
+
+<table>
+    <caption>
+        <h1>双衍王境</h1>
+    </caption>
+    <thead>
+    <tr>
+        <td>普通</td>
+        <td>钢铁</td>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>
+           <ul class="container">
+               <li th:each="n : ${normal}">
+                   <img th:src="|img/tenno/${#strings.toLowerCase(n)}.png|" alt=""/>
+                   <p><span th:text="${n}"></span></p>
+               </li>
+           </ul>
+        </td>
+        <td>
+           <ul class="container hard">
+               <li th:each="h:${hard}">
+                   <span th:text="${h}">----</span>
+               </li>
+           </ul>
+        </td>
+    </tr>
+    </tbody>
+</table>
+</body>
+</html>
