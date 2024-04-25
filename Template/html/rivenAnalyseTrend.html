@@ -33,6 +33,18 @@
             color: #CC9966;
         }
 
+        .diff-high {
+            color: red;
+        }
+
+        .diff-flat {
+            color: green;
+        }
+
+        .diff-low {
+            color: #1c84c6;
+        }
+
     </style>
 </head>
 <body>
@@ -40,7 +52,7 @@
 <div th:each="r:${data}">
     <div th:each="tm:${r}">
         <div>
-            <h3 th:text="${tm.rivenName ==null} ? ${tm.weaponName} : ${tm.weaponName+' ('+tm.rivenName+')'}"
+            <h3 th:text="${tm.weaponName}"
                 class="weapons_name"></h3>
             <p>
                 倾向：
@@ -51,9 +63,9 @@
             <p>具体分析结果：</p>
             <div th:each="ats:${tm.attributes}">
                 <p class="attribute">
-                    <span th:text="${ats.attr+'% '+ats.name}"></span>
-                    <span th:if="${ats.get('highAttrDiff')}" th:text="${ '('+ ats.lowAttr + '% - ' + ats.highAttr+ '% | 高 ' + ats.highAttrDiff + '% )'}"></span>
-                    <span th:if="${ats.get('lowAttrDiff')}" th:text="${ '(' + ats.lowAttr + '% - ' + ats.highAttr + '% | 低 '+ ats.lowAttrDiff +'% )'}"></span>
+                    <span th:text="${ats.attributeName}"></span>
+                    <span th:utext="${'('+ ats.lowAttr + '% - ' + ats.highAttr+ '%) | ' + ats.attrDiff}"
+                          style="color: #CC99CC;"></span>
                 </p>
             </div>
         </div>
