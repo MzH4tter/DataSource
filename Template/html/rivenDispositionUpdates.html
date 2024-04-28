@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>紫卡倾向更新列表</title>
+    <link th:href="@{/css/index.css}" href="../css/index.css" rel="stylesheet"/>
+    <style>
+        .r-body td {
+            margin: 0;
+            border-bottom: 2px solid firebrick;
+        }
+        /*名称样式*/
+        .r-w{}
+        /*旧的字符样式*/
+        .r-o {}
+        /*旧的数字样式*/
+        .r-o-n {}
+        /*新的字符样式*/
+        .r-n {}
+        /*新的数字样式*/
+        .r-n-n{}
+    </style>
+</head>
+<body>
+<w>3000</w>
+<div>
+    <div>
+        <span style="font-size: 24px; font-weight: bold">紫卡倾向更新列表</span>
+        <div id="head" style="text-align: left; font-weight: bold">
+            本次更新日期： <span th:text="${data[0].isDate}"></span>
+        </div>
+        <hr/>
+        <div>
+            <table>
+                <tr>
+                    <td>
+                        武器
+                    </td>
+
+                    <td>
+                        旧的倾向
+                    </td>
+
+                    <td>
+                        旧的倾向数值
+                    </td>
+                    <td>
+                        新的倾向
+                    </td>
+                    <td>
+                        新的倾向数值
+                    </td>
+                </tr>
+                <tr class="r-body" th:each="r:${data}">
+                    <td class="r-w" th:text="${r.traCh}">
+                        1
+                    </td>
+                    <td class="r-o" th:text="${r.oldDot}">
+                        2
+                    </td>
+                    <td class="r-o-n" th:text="${r.oldNum}">
+                        3
+                    </td>
+                    <td class="r-n" th:text="${r.newDot}">
+                        3
+                    </td>
+                    <td class="r-n-n" th:text="${r.newNum}">
+                        3
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+</div>
+</body>
+</html>
