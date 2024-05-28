@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="zh" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta charset="UTF-8"/>
+    <link href="../css/index.css" rel="stylesheet" th:href="@{/css/index.css}"/>
+    <title>系统信息</title>
+    <style>
+        div {
+            text-align: left;
+            margin-left: 50px;
+        }
+        td{
+            align-items: center;
+        }
+    </style>
+</head>
+
+<body>
+<w>
+    2500
+</w>
+<div class="systems">
+    <table>
+        <tr>
+            <td>
+                CPU
+            </td>
+            <td>
+                JVM
+            </td>
+
+        </tr>
+        <tr>
+            <td>
+                <div class="cpu">
+                    <div th:text="'CPU核心：'+${info.cpuInfo.cpuNum}"></div>
+                    <div th:text="'系统占用率：'+${info.cpuInfo.cSys}"></div>
+                    <div th:text="'用户占用率：'+${info.cpuInfo.user}"></div>
+                    <div th:text="'当前等待率：'+${info.cpuInfo.iowait}"></div>
+                    <div th:text="'当前使用率：'+${info.cpuInfo.idle}"></div>
+                </div>
+            </td>
+            <td>
+                <div class="jvm-info">
+                    <div th:text="'JVM总内存：'+${info.jvmInfo.total}"></div>
+                    <div th:text="'空闲空间：'+${info.jvmInfo.free}"></div>
+                    <div th:text="'JVM最大可申请：'+${info.jvmInfo.max}"></div>
+                    <div th:text="'JVM已使用内存：'+${info.jvmInfo.user}"></div>
+                    <div th:text="'JVM内存使用率：'+${info.jvmInfo.usageRate}"></div>
+                    <div th:text="'JDK版本：'+${info.jvmInfo.jdkVersion}"></div>
+                </div>
+            </td>
+
+        </tr>
+        <tr>
+            <td>
+                内存
+            </td>
+            <td>
+                系统
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="mem-info">
+                    <div th:text="'总内存：'+${info.memInfo.total}"></div>
+                    <div th:text="'使用：'+${info.memInfo.used}"></div>
+                    <div th:text="'剩余内存：'+${info.memInfo.free}"></div>
+                    <div th:text="'使用率：'+${info.memInfo.usageRate}"></div>
+                </div>
+            </td>
+
+            <td>
+                <div class="sys-info">
+                    <div th:text="'操作系统：'+${info.sysInfo.osName}"></div>
+                    <div th:text="'系统架构：'+${info.sysInfo.osArch}"></div>
+                </div>
+            </td>
+
+        </tr>
+    </table>
+    <table class="sys-file-info">
+        <tr>
+            <td th:colspan="${#arrays.length(info.sysFileInfo)}" style="font-size: 2em">硬盘</td>
+        </tr>
+        <tr>
+            <td th:each="file:${info.sysFileInfo}">
+                <div th:text="'文件类型：'+${file.typeName}"></div>
+                <div th:text="'总大小：'+${file.total}"></div>
+                <div th:text="'剩余大小：'+${file.free}"></div>
+                <div th:text="'已经使用量：'+${file.used}"></div>
+            </td>
+        </tr>
+    </table>
+</div>
+</body>
+</html>
