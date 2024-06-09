@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
 
 <head>
     <meta charset="UTF-8"/>
-    <link href="../css/index.css" rel="stylesheet"/>
+    <link th:href="@{/css/index.css}" href="../css/index.css" rel="stylesheet"/>
     <title>订阅指令</title>
 </head>
 
@@ -12,18 +12,90 @@
    生成图片的宽度
 -->
 <w>
-    1110
+    1800
 </w>
 <div>
     <div class="card">
         <div class="card-layer">
             <div>
                 <h1>---订阅指令表---</h1>
-                #table
+                <div>
+                    命令使用方式：
+                    <span style="color: #1c84c6">订阅</span>
+                    <span style="color: #6110f3"> [订阅内容类型]</span>
+                    <span style="color:#fa0000;"> [-订阅任务类型]</span>
+                    <span style="color: #af5244"> [-订阅遗物等级]</span>
+                    <div>
+                        下方的例子是指 <span style="color: #1c84c6">订阅</span>
+                        <span style="color: #6110f3"> 裂隙</span>
+                        <span style="color:#fa0000;"> 生存模式</span>
+                        <span style="color: #af5244"> 后纪</span>
+                        <div>
+                            指令例子：
+                            <span style="color: #1c84c6">订阅</span>
+                            <span style="color: #6110f3"> 9</span>
+                            <span style="color:#fa0000;"> -11</span>
+                            <span style="color: #af5244"> -4</span>
+                        </div>
+                    </div>
+                    <div>
+                        注意事项：<span style="color: #af5244">遗物等级</span>只有在订阅 <span
+                            style="color: #6110f3"> 裂隙</span>
+                        时有用
+                    </div>
+                    <div >
+                        <table th:with="colSize=${3}, rowSize= ${sub.size()/colSize}, rowSize= ${(sub.size() % colSize==0 ? rowSize : (rowSize+1))}" style="color: #6110f3">
+                            <caption>
+                                订阅内容类型数值
+                            </caption>
+                            <tr
+                                    th:each="rowIdx:${#numbers.sequence(1, rowSize)}">
+                                <td
+                                        th:each="colIdx:${#numbers.sequence(1,colSize)}">
+
+                                    <th:block
+                                            th:with="idx= ${(rowIdx - 1)* colSize + colIdx},relics=${idx < sub.size() ? sub.get(idx) : null}">
+                                        <div th:if="${idx!=0}">
+                                            <table>
+                                                <tr>
+                                                    <td th:text="${idx+' = '+sub.get(idx)}"></td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                    </th:block>
+                                </td>
+                            </tr>
+                        </table>
+
+
+                        <table th:with="colSize=${3}, rowSize=${type.size()/colSize}, rowSize=${(type.size()%colSize==0 ? rowSize : (rowSize+1))}" style="color:#fa0000;">
+                            <caption >
+                                订阅任务类型数值
+                            </caption>
+                            <tr
+                                    th:each="rowIdx:${#numbers.sequence(1, rowSize)}">
+
+                                <td
+                                        th:each="colIdx:${#numbers.sequence(1,colSize)}">
+
+                                    <th:block
+                                            th:with="idx=${(rowIdx - 1)* colSize + colIdx},relics=${idx < type.size() ? type.get(idx) : null}">
+                                        <div th:if="${idx!=0}">
+                                            <table>
+                                                <tr>
+                                                    <td th:text="${idx+' = '+type.get(idx)}"></td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                    </th:block>
+
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
             </div>
-
         </div>
-
     </div>
 </div>
 </body>
