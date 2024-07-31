@@ -73,5 +73,15 @@
     "id": 15,
     "en": "damage_vs_infested",
     "cn": "I"
+  },
+  {
+    "id": 16,
+    "en": "critical_damage",
+    "cn": "暴伤"
+  },
+  {
+    "id": 17,
+    "en": "critical_chance",
+    "cn": "暴率"
   }
 ]
